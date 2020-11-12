@@ -1,0 +1,15 @@
+int tab, a, n;
+	printf("qual é o limite\n");
+	
+	scanf("%d",&tab);
+	
+	
+	for(n=1;n<=tab;n++){
+		printf("\n TABUADA %d\n",n);
+	for(a=1; a<=10;a++){
+
+		printf("%d X %d = %d\n",n,a,n*a);
+
+	}
+
+	}

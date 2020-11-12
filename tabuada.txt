@@ -13,3 +13,4 @@ int tab, a, n;
 	}
 
 	}
+testado
